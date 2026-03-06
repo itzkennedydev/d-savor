@@ -71,7 +71,7 @@ D-Savor/
 
 ## License
 
-This project is proprietary and confidential.
+MIT
 
 ---
 
